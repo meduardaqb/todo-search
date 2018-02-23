@@ -1,9 +1,11 @@
 # todo-search
 Plugin to help to find TODO occurrence in the project
 
+To install run: ```npm install todo-search```
+<br/>
 
 #1 In your package.json scripts add the following script:<br/>
-       ``` "search:todo": "node test.js"```
+       ```"search:todo": "node test.js"```
 
 #2 Create test.js file in your root project
 
@@ -14,3 +16,5 @@ Plugin to help to find TODO occurrence in the project
 
 #4 Run on terminal:<br/>
        ``` npm run search:todo ```
+       
+npm: https://www.npmjs.com/package/todo-search
