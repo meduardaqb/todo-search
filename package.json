@@ -1,0 +1,30 @@
+{
+  "name": "todo-search",
+  "version": "1.0.3",
+  "description": "Plugin to help to find TODO occurrence in the project",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "search": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meduardaqb/todo-search.git"
+  },
+  "keywords": [
+    "TODO",
+    "Ionic"
+  ],
+  "author": "Eduarda Barbosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meduardaqb/todo-search/issues"
+  },
+  "homepage": "https://github.com/meduardaqb/todo-search#readme",
+  "dependencies": {
+    "recursive-readdir": "^2.2.2"
+  }
+}
